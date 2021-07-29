@@ -15,10 +15,12 @@ dependencies:
   - numpy=1.19.2
   - tqdm
   - pip:
-    - omegaconf>=2.0.0
-    - pygame
+    - omegaconf~=2.0.0
+    - pygame~=2.0
     - einops
     - importlib-resources
     - imageio
     - imageio-ffmpeg
+    - pytorch-lightning~=1.0.8
     - test-tube
+    - timm~=0.4.12
