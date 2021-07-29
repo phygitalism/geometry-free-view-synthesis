@@ -19,7 +19,7 @@ setup(
         'omegaconf>=2.0.0',
         'pytorch-lightning>=1.0.8',
         'pygame',
-        'splatting @ git+https://github.com/pesser/splatting@1427d7c4204282d117403b35698d489e0324287f#egg=splatting',
+        'splatting @ git+https://github.com/pesser/splatting@615066f8bc3be483035e6c4886cb7c0142654c27#egg=splatting',
         'einops',
         'importlib-resources',
         'imageio',
