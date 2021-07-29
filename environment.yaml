@@ -13,3 +13,12 @@ dependencies:
   - pytorch=1.7.1
   - torchvision=0.8.2
   - numpy=1.19.2
+  - tqdm
+  - pip:
+    - omegaconf>=2.0.0
+    - pygame
+    - einops
+    - importlib-resources
+    - imageio
+    - imageio-ffmpeg
+    - test-tube
